@@ -1,0 +1,26 @@
+{
+    "name": "franklin-liangsir/created-composer-case",
+    "description": "创建一个composer项目的完整步骤，只阐述步骤指明总体框架，细枝末叶的问题自行百度！",
+    "keywords": [
+        "怎样创建composer插件",
+        "如何创建composer",
+        "composer插件",
+        "插件开发"
+    ],
+    "type": "library",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "FranklinLiangsir\\CreatedComposerCase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "franklin-liangsir",
+            "email": "516874329@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    }
+}
